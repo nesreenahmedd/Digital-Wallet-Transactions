@@ -34,8 +34,11 @@ The Excel dashboard includes:
 - Loyalty and cashback summaries
 
 ## 🖼️ Dashboard Screenshots
- ![Sales Dashboard]!(https://github.com/user-attachments/assets/918951b3-01a6-498b-913a-883f09c7cfa0)
- ![Transactions Dashboard]!(https://github.com/user-attachments/assets/b7cb7a84-1cf8-4307-8733-52f81a5fa71b)
+| Sales Dashboard | Transactions Dashboard |
+|-----------------|------------------------|
+| ![Sales Dashboard](https://github.com/user-attachments/assets/8ac61ef6-3b9a-4804-9fad-92d9eb2ae4fe)
+| ![Transactions Dashboard](https://github.com/user-attachments/assets/33cd9621-56a6-4ab6-ad78-035b4164fad1)
+
  
 
 ## 📚 Key Learnings
