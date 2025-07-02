@@ -37,7 +37,7 @@ The Excel dashboard includes:
 | Sales Dashboard |
 |-------------------------- |
 | ![Sales Dashboard](https://github.com/user-attachments/assets/8ac61ef6-3b9a-4804-9fad-92d9eb2ae4fe)
-|-------------------------- |
+
 | Transactions Dashboard |
 | ------------------------- |
 | ![Transactions Dashboard](https://github.com/user-attachments/assets/33cd9621-56a6-4ab6-ad78-035b4164fad1)
